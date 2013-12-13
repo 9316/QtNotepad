@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Custom-Icon-Design-Office-Cut.ico</file>
+        <file>Treetog-I-Floppy-Small.ico</file>
+        <file>Visualpharm-Must-Have-Undo.ico</file>
+        <file>Visualpharm-Must-Have-Redo.ico</file>
+        <file>new.png</file>
+        <file>copy.png</file>
+        <file>open_folder_yellow.png</file>
+        <file>paste.png</file>
+        <file>document_save_as.png</file>
+        <file>search.png</file>
+        <file>Oxygen-Icons.org-Oxygen-Actions-help-about.ico</file>
+    </qresource>
+</RCC>
